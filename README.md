@@ -1,10 +1,13 @@
-// Speech prototype for ProBoards
+Speech prototype for ProBoards
 
-// Babel used to compile to ES5
+Babel used to compile to ES5
 
-// Note:  If using on http, it will not remember the permission.
-// https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
-// https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html
+Note:  If using on http, it will not remember the permission.
+
+https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
+
+https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html
+
 
 Commands:
 
@@ -23,6 +26,7 @@ close participated
 go bottom
 
 go top
+
 
 The last 2 commands have a speed option...
 
