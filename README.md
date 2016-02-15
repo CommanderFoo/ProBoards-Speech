@@ -9,14 +9,19 @@
 Commands:
 
 go home
+
 go profile
+
 go search
+
 go messages
 
 open participated
+
 close participated
 
 go bottom
+
 go top
 
 The last 2 commands have a speed option...
