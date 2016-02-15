@@ -1,0 +1,3 @@
+<div id="speech-prototype-mic-wrapper">
+	<img id="speech-prototype-listen" src="$[plugin.images.mic]" title="Speech Prototype" />
+</div>

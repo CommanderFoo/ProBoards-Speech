@@ -1,0 +1,14 @@
+#speech-prototype-mic-wrapper {
+
+	position: fixed;
+	top: 5px;
+	left: 5px;
+	display: none;
+
+}
+
+#speech-prototype-mic-wrapper img {
+
+	cursor: pointer;
+
+}
